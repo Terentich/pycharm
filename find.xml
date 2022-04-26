@@ -10,5 +10,6 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
