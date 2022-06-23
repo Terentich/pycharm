@@ -3,6 +3,7 @@
     <option name="customScope" value="PLAYOFFS-1410 IMPORT_B20 Discount data source implementation" />
     <option name="defaultScopeName" value="PLAYOFFS-1410 IMPORT_B20 Discount data source implementation" />
     <option name="SEARCH_SCOPE" value="PLAYOFFS-1410 IMPORT_B20 Discount data source implementation" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
